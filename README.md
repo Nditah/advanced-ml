@@ -1,7 +1,7 @@
-# Advanced-Robotics
+# Advanced-Machine Learning
 
 ![License](https://img.shields.io/badge/License-GNU-blue?style=for-the-badge)
-![CMP9764](https://img.shields.io/badge/Course-CMP9764-purple?style=for-the-badge)
+![CMP9137](https://img.shields.io/badge/Course-CMP9137-purple?style=for-the-badge)
 [![VERSION](https://img.shields.io/badge/VERSION-0.1.0-COLOR.svg?style=for-the-badge&logo=LOGO)](<LINK>)
 ![Build Status](https://img.shields.io/badge/build-failing-red?style=for-the-badge)
 ![Container Size](https://img.shields.io/badge/Container%20Size-<1GB-blue?style=for-the-badge&logo=docker)
@@ -14,7 +14,7 @@
 
 ## Build the workspace
 
-Unzip or clone the [project file](https://github.com/Nditah/advanced-robotics) 
+Unzip or clone the [project file](https://github.com/Nditah/advanced-ml) 
 
 Ensure that your Docker service is running, then open the project folder with VS Code.
 
